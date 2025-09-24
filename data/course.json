@@ -1,0 +1,46 @@
+{
+  "term": "Fall",
+  "year": "2015",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Business",
+      "Marketing"
+    ]
+  ],
+  "legacy_uid": "7a8dd605-80a9-d6bc-e869-d5f9ad6de222",
+  "instructors": {
+    "content": [
+      "fbaaecc7-5fca-450c-0bc2-c819703f31b9"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "04213e06-e2f2-7145-757c-55a1e9eaac76",
+    "website": "15-810-marketing-management-analytics-frameworks-and-applications-fall-2015"
+  },
+  "course_title": "Marketing Management: Analytics, Frameworks, and Applications",
+  "course_description": "\u00a0This course helps students develop skills in marketing analysis and planning, and introduces key marketing ideas and phenomena, such as how to deliver benefits to customers and marketing analytics. It presents a framework for marketing analysis and enhances problem solving and decision-making abilities in these areas. Material relevant to understanding, managing, and integrating marketing concepts in managerial situations, from entrepreneurial ventures to large multinational firms, and to consulting are presented.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.810",
+  "course_image_thumbnail": {
+    "content": "bab8d879-420a-9891-7f2f-7de6f26b4790",
+    "website": "15-810-marketing-management-analytics-frameworks-and-applications-fall-2015"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "6f82a8e0-49a9-404b-bf17-b79fe5047d81",
+  "site_short_id": "15.810-fall-2015",
+  "site_url_path": "courses/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015",
+  "title": "Course Metadata"
+}
