@@ -4,6 +4,8 @@ description: This resource contains information regarding Brita spreadsheet.
 file: /courses/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/a5a6d8f05f23a35c8bee0e23d023915c_MIT15_810F15_S07zBrita_For.xlsx
 file_size: 32429
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
