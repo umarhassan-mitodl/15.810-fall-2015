@@ -4,6 +4,8 @@ description: This resource contains information regarding case discussion questi
 file: /courses/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/35a55236576cb6ad09d4e0448c1b578e_MIT15_810F15_DiscusionQues.pdf
 file_size: 259481
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
