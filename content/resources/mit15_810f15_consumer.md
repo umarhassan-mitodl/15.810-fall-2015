@@ -4,8 +4,6 @@ description: This resource contains information regarding consumer behavior.
 file: /courses/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/6cb1b002884e59984e2798bed5d3dc9e_MIT15_810F15_Consumer.pdf
 file_size: 429524
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
