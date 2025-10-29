@@ -32,7 +32,7 @@ READINGS
 _**The**_ **Marketing Framework: 4 P's and 5 C's**
 {{< tdclose >}}
 {{< tdopen >}}
-Teixeira, Thales S. "[Digital Marketing Strategy, Course Overview Note](https://hbr.org/product/digital-marketing-strategy-course-overview-note/514087-PDF-ENG)." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐578‐061, December 17, 2013.  
+Teixeira, Thales S. "{{% resource_link "951d38a9-56b4-48c7-a930-ed40f09fb41f" "Digital Marketing Strategy, Course Overview Note" %}}." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐578‐061, December 17, 2013.  
 {{% resource_link 6ac992a8-742b-b222-3184-ed3dc981f2e2 "Note on Strategic Positioning (PDF)" %}}
 {{< tdclose >}}
 
@@ -45,7 +45,7 @@ Teixeira, Thales S. "[Digital Marketing Strategy, Course Overview Note](https://
 Snapple (4 P's, Entrepreneurs vs. Corporate)
 {{< tdclose >}}
 {{< tdopen >}}
-John, Deighton. "[Snapple](https://hbr.org/product/snapple/599126-PDF-ENG)." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐599‐126, June 04, 1999.
+John, Deighton. "{{% resource_link "cb933483-c020-42fb-aef4-231741f9d319" "Snapple" %}}." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐599‐126, June 04, 1999.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +57,7 @@ John, Deighton. "[Snapple](https://hbr.org/product/snapple/599126-PDF-ENG)." _Ha
 **Marketing Analytics**
 {{< tdclose >}}
 {{< tdopen >}}
-Ofek, Elie. "[Customer Profitability and Lifetime Value](https://hbr.org/product/customer-profitability-and-lifetime-value/503019-PDF-ENG)." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐503‐019, August 07, 2002.
+Ofek, Elie. "{{% resource_link "c1513ac9-ea7a-473b-8c83-1f3e0b1280e2" "Customer Profitability and Lifetime Value" %}}." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐503‐019, August 07, 2002.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +81,7 @@ No readings.
 BBVA Compass: Marketing Resource Allocation{{< sup "†" >}} (Analytics)
 {{< tdclose >}}
 {{< tdopen >}}
-Gupta, Sunil, and Joseph Davies-Gavin. "[BBVA Compass: Marketing Resource Allocation](https://hbr.org/product/bbva-compass-marketing-resource-allocation/511096-PDF-ENG)." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐511‐096, January 27, 2011.
+Gupta, Sunil, and Joseph Davies-Gavin. "{{% resource_link "c5ab6689-81b2-4e7a-b299-3d6ea482b02f" "BBVA Compass: Marketing Resource Allocation" %}}." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐511‐096, January 27, 2011.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +105,7 @@ Gupta, Sunil, and Joseph Davies-Gavin. "[BBVA Compass: Marketing Resource Alloca
 Brita Products Company{{< sup "†" >}} (Positioning, Disruptive New Product)
 {{< tdclose >}}
 {{< tdopen >}}
-Deighton, John. "[Brita Products Company](https://hbr.org/product/brita-products-co/500024-PDF-ENG)." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐500‐024, August 30, 1999.
+Deighton, John. "{{% resource_link "c22c9f9f-b104-415d-8e9d-0f1a9d95832b" "Brita Products Company" %}}." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐500‐024, August 30, 1999.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -145,7 +145,7 @@ No readings.
 
 {{% resource_link 2ddfdbcc-07a0-4fc5-638c-c8ce346dca01 "Note on the Voice of the Customer (PDF)" %}}
 
-Keinan, Anat, and Jill Avery. "[Understanding Brands, Module Note](https://hbr.org/product/understanding-brands-module-note/509041-PDF-ENG)." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐509‐041, November 26, 2008.
+Keinan, Anat, and Jill Avery. "{{% resource_link "9d2f876c-5ccb-4bcd-8023-0d05ee9211c4" "Understanding Brands, Module Note" %}}." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐509‐041, November 26, 2008.
 
 
 {{< tdclose >}}
@@ -161,7 +161,7 @@ Keinan, Anat, and Jill Avery. "[Understanding Brands, Module Note](https://hbr.o
 {{< tdopen >}}
 
 
-Dolan, Robert J, and John T. Gourville. "[Principles of Pricing](http://hbr.org/product/principles-of-pricing/506021-PDF-ENG)." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐506‐021, September 22, 2005.
+Dolan, Robert J, and John T. Gourville. "{{% resource_link "85e92187-c731-4530-8155-030142f71ac6" "Principles of Pricing" %}}." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐506‐021, September 22, 2005.
 
 {{% resource_link f863194d-7fe6-1a92-4053-26b29261dc76 "Note on Conjoint Analysis (PDF)" %}}
 
@@ -177,7 +177,7 @@ Dolan, Robert J, and John T. Gourville. "[Principles of Pricing](http://hbr.org/
 Aqualisa Quartz: Simply a Better Shower{{< sup "†" >}} (Product, Place)
 {{< tdclose >}}
 {{< tdopen >}}
-Moon, Youngme, and Kerry Herman. "[Aqualisa Quartz: Simply a Better Shower](https://hbr.org/product/aqualisa-quartz-simply-a-better-shower/502030-PDF-ENG)." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐502‐030, January 16, 2002.
+Moon, Youngme, and Kerry Herman. "{{% resource_link "d43ff7c7-fa31-44ef-9793-075e9bd17568" "Aqualisa Quartz: Simply a Better Shower" %}}." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐502‐030, January 16, 2002.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +189,7 @@ Moon, Youngme, and Kerry Herman. "[Aqualisa Quartz: Simply a Better Shower](http
 The New York Times Paywall{{< sup "†" >}} (Pricing)
 {{< tdclose >}}
 {{< tdopen >}}
-Kumar, Vineet, Bharat N. Anand, et al. "[The New York Times Paywall](https://hbr.org/product/the-new-york-times-paywall/512077-PDF-ENG)." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐512‐077, February 22, 2012.
+Kumar, Vineet, Bharat N. Anand, et al. "{{% resource_link "d2ec1d81-721a-4e9b-9d56-50ac882d486d" "The New York Times Paywall" %}}." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐512‐077, February 22, 2012.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -203,9 +203,9 @@ Kumar, Vineet, Bharat N. Anand, et al. "[The New York Times Paywall](https://hbr
 {{< tdopen >}}
 
 
-Farris, Paul W., and Tania de la Pena Calderon. "[Conceptual Models of How Advertising Works to Persuade Individuals](https://hbr.org/product/conceptual-models-of-how-advertising-works-to-persuade-individuals/UV2935-PDF-ENG)." _Harvard Business Review Case_. Harvard Business School Publishing. Case: UV2935, December 08, 2003.
+Farris, Paul W., and Tania de la Pena Calderon. "{{% resource_link "904f00e1-9e32-4a32-8afe-c0add37d6d9b" "Conceptual Models of How Advertising Works to Persuade Individuals" %}}." _Harvard Business Review Case_. Harvard Business School Publishing. Case: UV2935, December 08, 2003.
 
-Gupta, Sunil, Kristen Armstrong, et al. "[Social Media](https://hbr.org/product/social-media/510095-PDF-ENG)." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐510‐095, March 04, 2010.
+Gupta, Sunil, Kristen Armstrong, et al. "{{% resource_link "872cbf58-b875-434d-9d65-466c36646542" "Social Media" %}}." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐510‐095, March 04, 2010.
 
 
 {{< tdclose >}}
@@ -231,7 +231,7 @@ No readings.
 Swatch{{< sup "†" >}} (Advertising, Framing, Integration, 4 P's)
 {{< tdclose >}}
 {{< tdopen >}}
-Moon, Youngme. "[The Birth of the Swatch](https://hbr.org/product/birth-of-the-swatch/504096-PDF-ENG)." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐504‐096, June 08, 2004.
+Moon, Youngme. "{{% resource_link "e287b14f-2b3b-48e7-8478-52855223f08c" "The Birth of the Swatch" %}}." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐504‐096, June 08, 2004.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -255,7 +255,7 @@ No readings.
 Aravind Eye Hospital, Madurai, India (Place and Integration)
 {{< tdclose >}}
 {{< tdopen >}}
-Rangan, V. Kasturi. "[Aravind Eye Hospital, Madurai, India: In Service of Sight](https://hbr.org/product/aravind-eye-hospital-madurai-india-in-service-for-sight/593098-PDF-ENG)." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐593‐098, April 01, 1993.
+Rangan, V. Kasturi. "{{% resource_link "81284abe-3231-4a40-b897-5a7a7b73b37f" "Aravind Eye Hospital, Madurai, India: In Service of Sight" %}}." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐593‐098, April 01, 1993.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -267,7 +267,7 @@ Rangan, V. Kasturi. "[Aravind Eye Hospital, Madurai, India: In Service of Sight]
 Dove: Brand Evolution (Societal Issues, Social Media)
 {{< tdclose >}}
 {{< tdopen >}}
-Deighton, John. "[Dove: Evolution of a Brand](https://hbr.org/product/dove-evolution-of-a-brand/508047-PDF-ENG)." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐508‐047, October 10, 2007.
+Deighton, John. "{{% resource_link "5c96e1a7-21c3-4ef3-8830-c38ef5795e09" "Dove: Evolution of a Brand" %}}." _Harvard Business Review Case_. Harvard Business School Publishing. Case: 9‐508‐047, October 10, 2007.
 {{< tdclose >}}
 
 {{< trclose >}}
